@@ -11,6 +11,7 @@ the Jitsi Userspace of how to on another port, howto auth and howto etherpad
 and howto on old hardware.
 
 Sample Jitsi-Meet-config
+```bash
 ├── jitsi
 │   ├── etc
 │   │   ├── jitsi
@@ -43,3 +44,4 @@ Sample Jitsi-Meet-config
 │           └── conf.avail
 │               └── your.fancy.domain.com.cfg.lua_org
 └── README.md
+```
